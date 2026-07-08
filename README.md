@@ -1,0 +1,2 @@
+# data_analysis_with_AI_assignment_1
+RAG application
