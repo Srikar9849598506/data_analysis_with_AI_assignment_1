@@ -1,0 +1,15 @@
+{
+  "hdi_value": 0.802,
+  "hdi_rank": 49,
+  "life_expectancy_years": 76.2,
+  "expected_years_schooling": null,
+  "mean_years_schooling": null,
+  "gni_per_capita_usd": 14,
+  "population": 324,
+  "informal_employment_rate_pct": "5",
+  "real_gdp_growth_rate_pct": null,
+  "poverty_risk_rate_pct": 30.3,
+  "epl_index": 3.2,
+  "female_activity_rate_pct": 53.3,
+  "male_activity_rate_pct": 54.7
+}

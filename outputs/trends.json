@@ -1,0 +1,176 @@
+{
+  "series": [
+    {
+      "metric": "Informal employment rate",
+      "unit": "%",
+      "data": [
+        {
+          "year": 2001,
+          "value": 40
+        },
+        {
+          "year": 2002,
+          "value": 30
+        },
+        {
+          "year": 2007,
+          "value": 30.4
+        },
+        {
+          "year": 2009,
+          "value": 15.6
+        },
+        {
+          "year": 2010,
+          "value": 25.1
+        },
+        {
+          "year": 2011,
+          "value": 25.0
+        },
+        {
+          "year": 2012,
+          "value": 14.1
+        },
+        {
+          "year": 2014,
+          "value": 58.5
+        },
+        {
+          "year": 2015,
+          "value": 28.3
+        },
+        {
+          "year": 2016,
+          "value": 52
+        },
+        {
+          "year": 2017,
+          "value": 55
+        },
+        {
+          "year": 2020,
+          "value": 30.6
+        },
+        {
+          "year": 2022,
+          "value": 55
+        }
+      ]
+    },
+    {
+      "metric": "Population growth",
+      "unit": "%",
+      "data": [
+        {
+          "year": 2002,
+          "value": 0.0
+        },
+        {
+          "year": 2009,
+          "value": 0.0
+        },
+        {
+          "year": 2010,
+          "value": 1700
+        },
+        {
+          "year": 2011,
+          "value": 1.15
+        },
+        {
+          "year": 2012,
+          "value": 1.08
+        },
+        {
+          "year": 2014,
+          "value": 1.5
+        },
+        {
+          "year": 2015,
+          "value": 1800
+        },
+        {
+          "year": 2020,
+          "value": 1900
+        }
+      ]
+    },
+    {
+      "metric": "HDI",
+      "unit": "index (0-1)",
+      "data": [
+        {
+          "year": 2009,
+          "value": 0.7
+        },
+        {
+          "year": 2010,
+          "value": 0.0
+        },
+        {
+          "year": 2012,
+          "value": 0.8
+        },
+        {
+          "year": 2014,
+          "value": 0.8
+        },
+        {
+          "year": 2015,
+          "value": 0.8
+        },
+        {
+          "year": 2016,
+          "value": 0.82
+        }
+      ]
+    },
+    {
+      "metric": "Life Expectancy",
+      "unit": "years",
+      "data": [
+        {
+          "year": 2010,
+          "value": 75.0
+        },
+        {
+          "year": 2015,
+          "value": 78.0
+        },
+        {
+          "year": 2020,
+          "value": 80.0
+        }
+      ]
+    },
+    {
+      "metric": "GDP Share of Informal Economy",
+      "unit": "%",
+      "data": [
+        {
+          "year": 1990,
+          "value": 35
+        },
+        {
+          "year": 2000,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "metric": "Grey Economy as % of GDP",
+      "unit": "%",
+      "data": [
+        {
+          "year": 2012,
+          "value": 18.4
+        },
+        {
+          "year": 2014,
+          "value": 24.5
+        }
+      ]
+    }
+  ]
+}

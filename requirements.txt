@@ -1,0 +1,15 @@
+# ---- Core pipeline ----
+ollama              # Python client for local Ollama models
+pdfplumber          # PDF text extraction
+pandas              # data handling for indicators/themes/trends
+
+# ---- Visualisation ----
+plotly              # interactive charts (bar, line, radar, scatter)
+kaleido             # lets plotly save charts as static .png (for your PDF report)
+
+# ---- Dashboard ----
+streamlit           # interactive dashboard (app.py)
+
+# ---- Jupyter (only needed if running full_pipeline.py inside a notebook) ----
+jupyter
+ipykernel

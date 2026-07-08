@@ -1,0 +1,15 @@
+{
+  "hdi_value": null,
+  "hdi_rank": null,
+  "life_expectancy_years": null,
+  "expected_years_schooling": null,
+  "mean_years_schooling": null,
+  "gni_per_capita_usd": null,
+  "population": null,
+  "informal_employment_rate_pct": "33%",
+  "real_gdp_growth_rate_pct": null,
+  "poverty_risk_rate_pct": null,
+  "epl_index": null,
+  "female_activity_rate_pct": null,
+  "male_activity_rate_pct": null
+}

@@ -1,0 +1,92 @@
+{
+  "llama3.2:3b": {
+    "theme_counts": {
+      "education": 6,
+      "health": 7,
+      "inequality": 13,
+      "economy": 17,
+      "gender": 2,
+      "climate": 0,
+      "employment": 21,
+      "informality": 22
+    },
+    "indicators": {
+      "hdi_value": 0.802,
+      "hdi_rank": 49,
+      "life_expectancy_years": 76.2,
+      "expected_years_schooling": null,
+      "mean_years_schooling": null,
+      "gni_per_capita_usd": 14,
+      "population": 3000,
+      "informal_employment_rate_pct": 5,
+      "real_gdp_growth_rate_pct": null,
+      "poverty_risk_rate_pct": 19.3,
+      "epl_index": 3.2,
+      "female_activity_rate_pct": 51.1,
+      "male_activity_rate_pct": 51.1
+    },
+    "word_count": 88,
+    "used_vision": false,
+    "accuracy_score": null
+  },
+  "qwen2.5:3b": {
+    "theme_counts": {
+      "education": 3,
+      "health": 3,
+      "inequality": 6,
+      "economy": 7,
+      "gender": 1,
+      "climate": 0,
+      "employment": 13,
+      "informality": 14
+    },
+    "indicators": {
+      "hdi_value": null,
+      "hdi_rank": null,
+      "life_expectancy_years": 76.2,
+      "expected_years_schooling": 15.2,
+      "mean_years_schooling": 11.2,
+      "gni_per_capita_usd": 14558,
+      "population": null,
+      "informal_employment_rate_pct": 30.0,
+      "real_gdp_growth_rate_pct": -2.9,
+      "poverty_risk_rate_pct": 8.6,
+      "epl_index": 3.2,
+      "female_activity_rate_pct": 20,
+      "male_activity_rate_pct": 25
+    },
+    "word_count": 47,
+    "used_vision": false,
+    "accuracy_score": null
+  },
+  "qwen2.5vl:7b": {
+    "theme_counts": {
+      "education": 4,
+      "health": 3,
+      "inequality": 3,
+      "economy": 4,
+      "gender": 1,
+      "climate": 0,
+      "employment": 11,
+      "informality": 15
+    },
+    "indicators": {
+      "hdi_value": 0.802,
+      "hdi_rank": 49,
+      "life_expectancy_years": 76.2,
+      "expected_years_schooling": 15.2,
+      "mean_years_schooling": 11.2,
+      "gni_per_capita_usd": 14558,
+      "population": 620000,
+      "informal_employment_rate_pct": "22.3%",
+      "real_gdp_growth_rate_pct": 3.7,
+      "poverty_risk_rate_pct": 30.3,
+      "epl_index": 45.8,
+      "female_activity_rate_pct": 60.2,
+      "male_activity_rate_pct": 71.9
+    },
+    "word_count": 41,
+    "used_vision": true,
+    "accuracy_score": null
+  }
+}

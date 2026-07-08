@@ -1,0 +1,147 @@
+{
+  "summary_evaluation": [
+    {
+      "title": "Introduction / Front Matter",
+      "consistency": 1,
+      "completeness": 2,
+      "factual_alignment": 3,
+      "notes": "The summary captures the main points but lacks details such as specific statistics and some context about the causes of informal work."
+    },
+    {
+      "title": "CHAPTER 1: HUMAN DEVELOPMENT AND THE INFORMAL ECONOMY . . . . . . . 29",
+      "consistency": 1,
+      "completeness": 2,
+      "factual_alignment": 3,
+      "notes": "The summary captures the main points but lacks specific details and is not entirely consistent with the source text's full scope and statistics."
+    },
+    {
+      "title": "CHAPTER 2: PROFILE OF THE INFORMAL SECTOR IN MONTENEGRO IN 2014 . . . . 46",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary is not consistent with the source text, does not cover main points, and contains factual inaccuracies."
+    },
+    {
+      "title": "CHAPTER 3: THE INFORMAL ECONOMY AND POVERTY,",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source, is incomplete, and contains no factual alignment with the provided text."
+    },
+    {
+      "title": "CHAPTER 4: THE CAUSES AND CONSEQUENCES OF THE INFORMAL ECONOMY . . . 74",
+      "consistency": 1,
+      "completeness": 1,
+      "factual_alignment": 1,
+      "notes": "The summary captures the main points but lacks specific details and statistics present in the source text."
+    },
+    {
+      "title": "CHAPTER 5: PRODUCTIVITY AND ACCESS TO CAPITAL/ DEVELOPMENT . . . . . . 93",
+      "consistency": 1,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source text at all. It introduces new concepts like 'productivity and access to capital/development' which are not present in the source text."
+    },
+    {
+      "title": "CHAPTER 7: INSTITUTIONS AND TRUST BUILDING . . . . . . . . . . . . . .104",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary does not match the source content at all. It discusses informal institutions and economic outcomes rather than the main focus on informal work in Montenegro."
+    },
+    {
+      "title": "CHAPTER 8: POLICY CHALLENGES – TRANSITION FROM INFORMAL",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary does not accurately reflect the main points or content of the source text."
+    },
+    {
+      "title": "CHAPTER 9: CONCLUSIONS AND RECOMMENDATIONS . . . . . . . . . . . . 124",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source and covers irrelevant information. It introduces new facts that are not present in the source text."
+    },
+    {
+      "title": "Chapter 4 discusses the causes and consequences of the informal economy. It presents an overview of",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary lacks key details from the source text, including specific causes and consequences of the informal economy, and focuses only on productive employment without addressing other aspects like education and access to capital."
+    },
+    {
+      "title": "Chapter 7 analyses the connection between formal and informal institutions, and informal",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary is inconsistent with source text and does not cover main points. It focuses on formalization of work without mentioning informal institutions or key statistics, and omits specific recommendations and policies."
+    },
+    {
+      "title": "CHAPTER 1:",
+      "consistency": 1,
+      "completeness": 1,
+      "factual_alignment": 1,
+      "notes": "The summary does not contradict the source text but misses key details such as specific percentages of informal employment and focuses on progress rather than challenges."
+    },
+    {
+      "title": "CHAPTER 2:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary is inconsistent with source text, incomplete in covering main points and does not align with factual details provided."
+    },
+    {
+      "title": "CHAPTER 3:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source text and covers very little of its main points. It introduces new facts that are not present in the source, such as poverty risk rates for informally employed people and formalization having negative effects on poverty risk."
+    },
+    {
+      "title": "CHAPTER 4:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source, is incomplete and contains factual inaccuracies."
+    },
+    {
+      "title": "CHAPTER 5:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary does not match the source content and contains irrelevant information."
+    },
+    {
+      "title": "CHAPTER 6:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary does not match the source content at all. It discusses Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), which are completely unrelated to the provided source text about Montenegro's informal work."
+    },
+    {
+      "title": "CHAPTER 7:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "The summary does not match the source text and contains no logical connection or factual information from it."
+    },
+    {
+      "title": "CHAPTER 8:",
+      "consistency": 0,
+      "completeness": 0,
+      "factual_alignment": 0,
+      "notes": "Summary lacks key details from the source text such as the specific causes of informal economy in Montenegro and focuses only on one aspect (tax-benefit model). It does not cover main points like national circumstances, strategies for reducing informality, or the overall aim to support transition to formal economy."
+    },
+    {
+      "title": "CHAPTER 9:",
+      "consistency": 1,
+      "completeness": 2,
+      "factual_alignment": 0,
+      "notes": "The summary does not logically match the source as it focuses only on one chapter of the report and misses other key points such as the causes and consequences of informal work, the need for systemic changes, and specific policy recommendations."
+    }
+  ],
+  "indicator_evaluation": {
+    "raw_text": "{\n  \"introduction_summary\": \"The document discusses the informal economy in Montenegro and its impact on human development, including demographic trends, economic conditions, and employment patterns. It highlights that despite some improvements, the level of informality remains high, particularly affecting young people and those with low levels of education.\",\n  \"chapter_1_summary\": \"This chapter covers various aspects of human development in Montenegro, including trends over time, demographic changes, economic indicators, and the presence of an informal economy. It emphasizes that while there have been some improvements in certain areas like life expectancy and HDI (Human Development Index), challenges such as high unemployment rates among young people and low participation of women remain significant.\",\n  \"chapter_2_summary\": \"Chapter 2 focuses on a detailed profile of the informal sector in Montenegro for the year 2014. Key findings include an informal employment rate of 5%, with trade, agriculture, tourism, and construction being sectors most affected by informality. The chapter also notes that young people and those without formal education are disproportionately represented among the informally"
+  }
+}
